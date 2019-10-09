@@ -43,7 +43,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/leecade/react-native-swiper.git"
+    "url": "git+git@github.com:mateeqazam/react-native-swiper.git"
   },
   "author": "",
   "license": "MIT",
